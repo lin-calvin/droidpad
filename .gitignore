@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Android
+local.properties
+*.apk
+*.aab
+
+# Local dev keystore
+debug.keystore
+*.jks
+*.keystore
+
+# Compiled tool binaries
+tools/uhid_test
+tools/uhid_udp
+
+# OS / editor
+.DS_Store
+*.iml
+.idea/
